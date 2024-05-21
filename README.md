@@ -22,9 +22,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-
-## 🚨 Tutorial
-
 This repository contains the code corresponding to a Fintech Banking Application, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 ## <a name="introduction">🤖 Introduction</a>
